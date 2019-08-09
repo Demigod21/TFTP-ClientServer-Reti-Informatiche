@@ -13,6 +13,6 @@ Per ulteriori info consultare il file "Specifiche.pdf"
 Client Server application written in C based on TFTP Protocol (Trivial File Transfer Protocol).
 It allows the Client to:
 - request a file from the server
-- download it bia text mode or binary mode
+- download it via text mode or binary mode
 
 For more informations please read "Specifiche.pdf" which contains the project specifications.
